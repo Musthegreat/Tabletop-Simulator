@@ -1,0 +1,112 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "6c2e74",
+      "Name": "BlockRectangle",
+      "Transform": {
+        "posX": 2.443785,
+        "posY": 1.58227289,
+        "posZ": -0.9670539,
+        "rotX": 0.0007757067,
+        "rotY": 315.0272,
+        "rotZ": 1.70631659,
+        "scaleX": 0.131689459,
+        "scaleY": 0.13216047,
+        "scaleZ": 0.486150116
+      },
+      "Nickname": "Blue flag",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.41637522,
+        "g": 0.286559373,
+        "b": 0.115336604
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "d3086d",
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": -3.3575902,
+            "posY": 0.08373093,
+            "posZ": -0.23025924,
+            "rotX": -0.00101416372,
+            "rotY": 179.809814,
+            "rotZ": 180.000031,
+            "scaleX": 5.57486153,
+            "scaleY": 0.832542,
+            "scaleZ": 0.5000046
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.0,
+            "g": 0.09977377,
+            "b": 0.9254902
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

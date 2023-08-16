@@ -1,0 +1,112 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "4b7152",
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": 12.2654209,
+        "posY": 1.30563748,
+        "posZ": 5.058693,
+        "rotX": -0.000371660368,
+        "rotY": 269.9698,
+        "rotZ": -7.021308E-05,
+        "scaleX": 0.4899944,
+        "scaleY": 0.6912931,
+        "scaleZ": 0.425000459
+      },
+      "Nickname": "Yellow deer cabin",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.357142448,
+        "g": 0.217353374,
+        "b": 0.032976605
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "8dab0b",
+          "Name": "BlockTriangle",
+          "Transform": {
+            "posX": 0.03742781,
+            "posY": 0.714244366,
+            "posZ": 0.009637938,
+            "rotX": 2.721616E-05,
+            "rotY": 0.0340314135,
+            "rotZ": 1.83219163E-06,
+            "scaleX": 1.00000036,
+            "scaleY": 0.99999994,
+            "scaleZ": 1.00000036
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.905,
+            "g": 0.898,
+            "b": 0.171999961
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

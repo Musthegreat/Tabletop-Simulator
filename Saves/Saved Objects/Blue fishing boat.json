@@ -1,0 +1,159 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "f1c4bf",
+      "Name": "BlockTriangle",
+      "Transform": {
+        "posX": 3.26086283,
+        "posY": 1.83670819,
+        "posZ": -6.31579876,
+        "rotX": 359.9542,
+        "rotY": 270.037964,
+        "rotZ": 90.22854,
+        "scaleX": 0.11923328,
+        "scaleY": 0.24416627,
+        "scaleZ": 0.059524022
+      },
+      "Nickname": "Blue fishing boat",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.07058828,
+        "g": 0.177229017,
+        "b": 0.8901961
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "0b37ae",
+          "Name": "BlockRectangle",
+          "Transform": {
+            "posX": -2.034896,
+            "posY": -0.391389161,
+            "posZ": 0.288262665,
+            "rotX": 89.75451,
+            "rotY": 248.5513,
+            "rotZ": 158.597275,
+            "scaleX": 5.514869,
+            "scaleY": 1.34540677,
+            "scaleZ": 1.85764313
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.416376173,
+            "g": 0.2865603,
+            "b": 0.115337558
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "3acdfd",
+              "Name": "BlockRectangle",
+              "Transform": {
+                "posX": -0.00118343986,
+                "posY": 1.264529,
+                "posZ": -0.0199574046,
+                "rotX": 270.0,
+                "rotY": 0.404286563,
+                "rotZ": 0.0,
+                "scaleX": 0.382782936,
+                "scaleY": 0.143496558,
+                "scaleZ": 1.52898991
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.5801394,
+                "g": 0.340901226,
+                "b": 0.172829032
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

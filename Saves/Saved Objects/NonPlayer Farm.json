@@ -1,0 +1,298 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "232f4d",
+      "Name": "BlockSquare",
+      "Transform": {
+        "posX": 2.108831,
+        "posY": 1.53537047,
+        "posZ": -2.15001726,
+        "rotX": 0.00420581223,
+        "rotY": 330.975037,
+        "rotZ": 359.971771,
+        "scaleX": 0.364341825,
+        "scaleY": 0.0417987965,
+        "scaleZ": 0.5030805
+      },
+      "Nickname": "Non-Player Farm",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.614982545,
+        "g": 0.333717823,
+        "b": 0.05035516
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "d07af2",
+          "Name": "BlockTriangle",
+          "Transform": {
+            "posX": -0.8981381,
+            "posY": 2.16131282,
+            "posZ": -0.2572294,
+            "rotX": 359.89505,
+            "rotY": 283.202454,
+            "rotZ": 90.20666,
+            "scaleX": 0.9885204,
+            "scaleY": 0.185700983,
+            "scaleZ": 0.06458955
+          },
+          "Nickname": "White fishing boat",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": false,
+          "Snap": false,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "ee6d79",
+              "Name": "BlockRectangle",
+              "Transform": {
+                "posX": -2.02521181,
+                "posY": -0.392574549,
+                "posZ": -0.0409619622,
+                "rotX": 89.75292,
+                "rotY": 246.5801,
+                "rotZ": 156.626465,
+                "scaleX": 5.51485,
+                "scaleY": 1.34540653,
+                "scaleZ": 1.8576436
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.4163762,
+                "g": 0.286560327,
+                "b": 0.115337588
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ChildObjects": [
+                {
+                  "GUID": "3acdfd",
+                  "Name": "BlockRectangle",
+                  "Transform": {
+                    "posX": -0.00118343986,
+                    "posY": 1.264529,
+                    "posZ": -0.0199574046,
+                    "rotX": 270.0,
+                    "rotY": 0.404286563,
+                    "rotZ": 0.0,
+                    "scaleX": 0.382782936,
+                    "scaleY": 0.143496558,
+                    "scaleZ": 1.52898991
+                  },
+                  "Nickname": "",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.5801394,
+                    "g": 0.340901226,
+                    "b": 0.172829032
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "GUID": "f637d6",
+          "Name": "BlockSquare",
+          "Transform": {
+            "posX": 0.9800942,
+            "posY": 3.36105657,
+            "posZ": 0.271092176,
+            "rotX": -1.53028589E-06,
+            "rotY": 254.045273,
+            "rotZ": 1.458129E-05,
+            "scaleX": 0.464447528,
+            "scaleY": 7.722115,
+            "scaleZ": 0.529418766
+          },
+          "Nickname": "Nuetral deer cabin",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.357141942,
+            "g": 0.217352867,
+            "b": 0.032976605
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ChildObjects": [
+            {
+              "GUID": "8dab0b",
+              "Name": "BlockTriangle",
+              "Transform": {
+                "posX": 0.037441954,
+                "posY": 0.7141876,
+                "posZ": 0.009687673,
+                "rotX": -0.00474919844,
+                "rotY": 0.0339424536,
+                "rotZ": -0.00169267959,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

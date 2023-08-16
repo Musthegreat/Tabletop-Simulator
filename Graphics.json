@@ -1,0 +1,16 @@
+{
+  "Presets": 6,
+  "ResX": 1920,
+  "ResY": 1080,
+  "Fullscreen": true,
+  "VSync": false,
+  "FullTextures": true,
+  "PostAA": false,
+  "MSAA": 8,
+  "SSAO": true,
+  "Shadows": 5,
+  "Anisotropic": true,
+  "CapFPS": false,
+  "CustomCapFPSRate": 0,
+  "Sharpen": false
+}

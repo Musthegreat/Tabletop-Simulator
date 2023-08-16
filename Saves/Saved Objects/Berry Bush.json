@@ -1,0 +1,199 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "4b428e",
+      "Name": "BlockTriangle",
+      "Transform": {
+        "posX": -7.05119,
+        "posY": 1.56782889,
+        "posZ": -3.16798639,
+        "rotX": 1.35734872E-05,
+        "rotY": 15.01827,
+        "rotZ": 8.39723441E-07,
+        "scaleX": 0.250000417,
+        "scaleY": 0.250000417,
+        "scaleZ": 0.250000417
+      },
+      "Nickname": "Berry Bush",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.159569085,
+        "g": 0.430312783,
+        "b": 0.158180654
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "1c526f",
+          "Name": "BlockTriangle",
+          "Transform": {
+            "posX": -1.18021631,
+            "posY": 2.534067E-07,
+            "posZ": 0.9966547,
+            "rotX": -1.05116487E-05,
+            "rotY": 314.996552,
+            "rotZ": 1.196658E-05,
+            "scaleX": 0.99999994,
+            "scaleY": 1.0,
+            "scaleZ": 0.99999994
+          },
+          "Nickname": "Berry Bush",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.159569085,
+            "g": 0.430312783,
+            "b": 0.158180654
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "JointFixed": {
+            "ConnectedBodyGUID": "4b428e",
+            "EnableCollision": false,
+            "Axis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "Anchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "ConnectedAnchor": {
+              "x": -1.18021631,
+              "y": 2.534067E-07,
+              "z": 0.9966547
+            },
+            "BreakForce": "Infinity",
+            "BreakTorgue": "Infinity"
+          }
+        },
+        {
+          "GUID": "de3a86",
+          "Name": "BlockTriangle",
+          "Transform": {
+            "posX": 0.3428215,
+            "posY": 1.3508519E-06,
+            "posZ": 1.69776332,
+            "rotX": -3.36743847E-06,
+            "rotY": 29.7886372,
+            "rotZ": -5.81021777E-06,
+            "scaleX": 1.00000012,
+            "scaleY": 1.0,
+            "scaleZ": 1.00000012
+          },
+          "Nickname": "Berry Bush",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.159569114,
+            "g": 0.4303128,
+            "b": 0.158180684
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "JointFixed": {
+            "ConnectedBodyGUID": "4b428e",
+            "EnableCollision": false,
+            "Axis": {
+              "x": 1.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "Anchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "ConnectedAnchor": {
+              "x": 0.3428215,
+              "y": 1.3508519E-06,
+              "z": 1.69776332
+            },
+            "BreakForce": "Infinity",
+            "BreakTorgue": "Infinity"
+          }
+        }
+      ]
+    }
+  ]
+}
